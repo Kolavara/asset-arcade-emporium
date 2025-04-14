@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome to e commerce for digital assets 
 
 ## Project info
 
